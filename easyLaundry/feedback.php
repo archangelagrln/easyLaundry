@@ -106,7 +106,7 @@ if (!$result) {
 
   <div class="page-layout">
     <div class="back-button">
-      <a href="landingpage.php">
+      <a href="index.php">
        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 55 55" fill="none">
         <path d="M25.52 15.8134L9.33337 32L25.52 48.1867" stroke="#202020" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
         <path d="M54.6666 32H9.78662" stroke="#202020" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
